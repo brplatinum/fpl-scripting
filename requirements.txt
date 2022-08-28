@@ -1,1 +1,3 @@
 fpl
+aiohttp
+asyncio
